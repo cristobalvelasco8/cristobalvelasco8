@@ -73,3 +73,5 @@ I'm **Cristóbal Velasco Vílchez**, I'm **Web Developer**, passionate about **T
     </tbody>
   </table>
 </div>
+<br/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalvelasco8&show_icons=true&locale=en&layout=compact" alt="cristobalvelasco8" /></p>
